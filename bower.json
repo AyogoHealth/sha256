@@ -14,10 +14,6 @@
     ".DS_Store",
     "references"
   ],
-  "dependencies": {
-    "convert-hex": "0.1.x",
-    "convert-string": "0.1.x"
-  },
   "repo": "https://github.com/cryptocoinjs/sha256",
   "main": "./lib/sha256.js"
 }
